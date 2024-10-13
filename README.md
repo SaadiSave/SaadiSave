@@ -1,4 +1,4 @@
-# 🙋​💬​
+# 🗣️
 ![Python-logo-notext](https://github.com/SaadiSave/SaadiSave/assets/53120037/e9ba9b92-ba28-464f-972d-622a76a462fa)
 
 ![rust-logo-32x32](https://github.com/SaadiSave/SaadiSave/assets/53120037/c337146f-bca1-416e-a76b-48c9f3f5ecb1)
