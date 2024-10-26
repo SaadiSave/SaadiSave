@@ -1,6 +1,8 @@
 # 🗣️
 ![Python-logo-notext](https://github.com/SaadiSave/SaadiSave/assets/53120037/e9ba9b92-ba28-464f-972d-622a76a462fa)
 
+![Julia Logo](https://github.com/user-attachments/assets/6a0c500e-5053-4dc2-a3f4-b0e131ba816d)
+
 ![rust-logo-32x32](https://github.com/SaadiSave/SaadiSave/assets/53120037/c337146f-bca1-416e-a76b-48c9f3f5ecb1)
 
 ![Unofficial_JavaScript_logo_2](https://github.com/SaadiSave/SaadiSave/assets/53120037/f0850e98-e32a-4567-bdf6-aca0068a0a31)
